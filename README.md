@@ -4,4 +4,4 @@ Webflow developer and motion designer in Porto. I build websites where motion ca
 
 **Now:** [Arco](https://github.com/emanuelbento/arco-components), a library of GSAP components with Client-First classes, ready to drop into a Webflow build. [See it live in the Lab](https://emanuelbento.pt/lab).
 
-[Website](https://emanuelbento.pt) · [CodePen](https://codepen.io/emanuelbento) · [Webflow](https://webflow.com/@emanuelbento) · [X](https://x.com/emanuelgbento) · [Behance](https://www.behance.net/emanuelgbento)
+[Website](https://emanuelbento.pt) · [CodePen](https://codepen.io/emanuelbento) · [Webflow](https://webflow.com/@emanuelbento) · [Behance](https://www.behance.net/emanuelgbento) · [Instagram](https://www.instagram.com/emanuelbento.pt/) · [X](https://x.com/emanuelgbento) · [Bluesky](https://bsky.app/profile/emanuelbento.bsky.social)
